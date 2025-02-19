@@ -1,0 +1,10 @@
+Pruning origin
+URL: <redacted>
+ * [pruned] origin/convert-callbacks-to-streams
+ * [pruned] origin/dependabot/pub/flutter_local_notifications_windows/ffigen-16.0.0
+ * [pruned] origin/ffigen-17
+ * [pruned] origin/github-setup-java-17
+ * [pruned] origin/pigeon-android
+ * [pruned] origin/windows-ffigen
+ * [pruned] origin/windows-flutter-test
+ * [pruned] origin/windows-uris

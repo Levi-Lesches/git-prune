@@ -1,0 +1,13 @@
+name: git_prune
+description: A sample command-line application.
+version: 1.0.0
+repository: https://github.com/Levi-Lesches/git-prune.git
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  args: ^2.6.0
+
+dev_dependencies:
+  lints: ^5.0.0
